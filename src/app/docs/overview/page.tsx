@@ -28,7 +28,7 @@ const page = () => {
                 that your data is handled safely and efficiently. We regularly update our endpoints to stay
                 ahead of potential security vulnerabilities.</p>
 
-            <p><span className={'font-bold'}>Scalable Solutions:</span> Whether you're handling a small user base or
+            <p><span className={'font-bold'}>Scalable Solutions:</span> Whether you are handling a small user base or
                 millions of requests, our API
                 endpoints are designed to scale with your needs, ensuring consistent performance and
                 reliability.</p>
