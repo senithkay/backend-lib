@@ -6,7 +6,7 @@ const page = () => {
                 <p className={'text-md font-semibold text-gray-800'}> Welcome to Bend Point, your comprehensive solution
                     for all your API endpoint needs. Our library offers a variety of endpoints designed to streamline
                     and simplify commonly used tasks, such as email validation, data formatting, and more. Whether
-                    you're a seasoned developer or just starting out, Bend Point provides reliable, efficient, and
+                    you are a seasoned developer or just starting out, Bend Point provides reliable, efficient, and
                     easy-to-use endpoints to enhance your applications and workflows.
                 </p>
             </div>
